@@ -1,4 +1,4 @@
-# Ex No: 07 - Design and Simulation of a 4-Bit Adder Using Verilog and Cadence nclaunch
+[[# Ex No: 07 - Design and Simulation of a 4-Bit Adder Using Verilog and Cadence nclaunch
 
 ## Aim
 The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and verify its functionality using **Cadence nclaunch** for simulation.
@@ -114,3 +114,4 @@ Simulated the design using Cadence nclaunch and verified the output.
 Observed correct addition functionality for all test cases.
 
 
+](https://github.com/HarishKarthikeyan18/Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools.git)](https://github.com/HarishKarthikeyan18/Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools.git)
